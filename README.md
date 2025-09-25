@@ -1,5 +1,5 @@
 # COGS105
-Course Website for COGS105
+Course Website for COGS105 Introduction to Statistical Learning
 
 ## A book I will sometimes use to make lectures. 
 
