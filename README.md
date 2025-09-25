@@ -1,6 +1,16 @@
 # COGS105
 Course Website for COGS105
 
+## A book I will sometimes use to make lectures. 
+
+### Github page of textbook 
+
+https://github.com/intro-stat-learning
+
+### YOUTUBE LINK OF BOOK AUTHORS 
+
+https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ
+
 ## Course Materials for COGS105 
 
 ### 9/30: A really nice conceptual introduction to Least Squares Fitting 
@@ -8,7 +18,6 @@ Course Website for COGS105
 https://www.youtube.com/watch?v=S0ptaAXNxBU
 
 ## YOUTUBE LINK FOR CLASS LECTURES
-
 
 ## Scientific Python
 
