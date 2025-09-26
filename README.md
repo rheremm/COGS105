@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=S0ptaAXNxBU
 
 ## YOUTUBE LINK FOR CLASS LECTURES
 
+https://www.youtube.com/playlist?list=PLYm0Y925CmSzuZEwZI7zCQV3fpVxDP8GM
+
 ## Scientific Python
 
 ### Python has a large number of tools available for doing data science, sometimes referred to as 'scientific Python'. 
