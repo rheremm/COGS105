@@ -11,11 +11,22 @@ https://github.com/intro-stat-learning
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ
 
+### This is a really great playlist of a course that significantly the material I will be going over, and it also provides some introductory python lectures. 
+
+https://www.youtube.com/watch?v=162503oCJqE&list=PLmxpwhh4FDm5zuA_63jV6iiz5wrg76UHV
+
+
 ## Course Materials for COGS105 
 
 ### 9/30: A really nice conceptual introduction to Least Squares Fitting 
 
 https://www.youtube.com/watch?v=S0ptaAXNxBU
+
+### 10/7 The first 10 minutes of this lecture, cover some of the material  I will talk about on 10/7.  The later parts of this video, I will also be covering, but in about a week. 
+
+I like her calmness and pacing.  Its a nice contrast from me. 
+
+https://www.youtube.com/watch?v=u6kKOldSYs8
 
 ## YOUTUBE LINK FOR CLASS LECTURES
 
