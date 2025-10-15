@@ -24,6 +24,15 @@ https://www.youtube.com/watch?v=S0ptaAXNxBU
 
 ### 10/7 The first 10 minutes of this lecture, cover some of the material  I will talk about on 10/7.  The later parts of this video, I will also be covering, but in about a week. 
 
+### 10/16 and 10/21 Watch these two videos 
+
+https://www.youtube.com/watch?v=LJXrdW-0V-A&list=PLmxpwhh4FDm5zuA_63jV6iiz5wrg76UHV&index=8
+
+https://www.youtube.com/watch?v=P8Q1gtF69zY&list=PLmxpwhh4FDm5zuA_63jV6iiz5wrg76UHV&index=9
+
+
+
+
 I like her calmness and pacing.  Its a nice contrast from me. 
 
 https://www.youtube.com/watch?v=u6kKOldSYs8
