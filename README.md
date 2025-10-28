@@ -30,12 +30,13 @@ https://www.youtube.com/watch?v=LJXrdW-0V-A&list=PLmxpwhh4FDm5zuA_63jV6iiz5wrg76
 
 https://www.youtube.com/watch?v=P8Q1gtF69zY&list=PLmxpwhh4FDm5zuA_63jV6iiz5wrg76UHV&index=9
 
+### 10/28 and 10/30 watch this video 
 
-
+https://www.youtube.com/watch?v=u6kKOldSYs8&list=PLmxpwhh4FDm5zuA_63jV6iiz5wrg76UHV&index=7
 
 I like her calmness and pacing.  Its a nice contrast from me. 
 
-https://www.youtube.com/watch?v=u6kKOldSYs8
+https://youtu.be/162503oCJqE?si=cvYB4pxmaiPqn1j9
 
 ## YOUTUBE LINK FOR CLASS LECTURES
 
